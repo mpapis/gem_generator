@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'gem_generator/cli'
+
+GemGenerator::CLI.start
